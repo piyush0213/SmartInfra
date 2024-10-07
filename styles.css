@@ -1,0 +1,12 @@
+/* Custom styles can go here */
+body {
+    /* Ensuring the background color */
+    background-color: #1a202c; /* Tailwind's gray-900 */
+}
+
+/* Gradient box styling for the image container */
+.gradient-box {
+    background: linear-gradient(135deg, #f54291, #ff7f50);
+    padding: 10px;
+    border-radius: 10px;
+}
